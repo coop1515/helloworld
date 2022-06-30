@@ -9,6 +9,12 @@ public class HelloWorld {
 		char[] charArr = str.toCharArray();
 		// char 배열 출력
 		System.out.println(charArr);
-
-	}
 }
+
+//public class HelloWorld {
+//
+//	public static void main(String[] args) {
+//		System.out.println("Hello World!!!!!");
+//
+//	}
+ }
