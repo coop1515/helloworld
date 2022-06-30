@@ -9,6 +9,7 @@ public class aaa {
 		a += "가나" + 2;
 		a += 2;
 		System.out.println(a);
+		
 	}
 
 }
